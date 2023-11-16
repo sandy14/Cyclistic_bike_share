@@ -28,8 +28,19 @@ Cyclistic’s has provided historical trip data to analyze and identify trends.D
  [SQL_query_Cyclistic's.pdf](https://github.com/sandy14/Cyclistic_bike_share/files/13379121/SQL_query_Cyclistic.s.pdf)
 
  #Analysis#
+ 
  All Visualization has been done on Tableau free version and published on Tableau public.Link given below.
+ 
  [https://public.tableau.com/app/profile/sandhya3340/viz/Divvy_trip_case_study1/Gender]
+
+ #Insights#
+
+ 1. Cyclistic's has more Male customers then female, including both members and subscribers.
+ 2. Weekends are mostly popular for riding cycles,Friday being top day for riding cycles in a week.
+ 3. When we look for Average trip duration, Monday to Friday are attaracting users.
+ 4. Most popular station are Columbus Dr & Randolph St,Lake Shore Dr & Monroe St,Michigan Ave & Oak St,Millennium Park,Streeter Dr & Grand Ave are the most popular area for cycling.
+ 5. May to October being the most polular month for cycling users.
+ 6. 
 
  
 
