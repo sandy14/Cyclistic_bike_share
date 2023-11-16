@@ -27,6 +27,12 @@ Cyclistic’s has provided historical trip data to analyze and identify trends.D
 #File with SQL codes #
  [SQL_query_Cyclistic's.pdf](https://github.com/sandy14/Cyclistic_bike_share/files/13379121/SQL_query_Cyclistic.s.pdf)
 
+ #Analysis#
+ All Visualization has been done on Tableau free version and published on Tableau public.Link given below.
+ [https://public.tableau.com/app/profile/sandhya3340/viz/Divvy_trip_case_study1/Gender]
+
+ 
+
 
  
 
